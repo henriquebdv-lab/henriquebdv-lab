@@ -5,6 +5,7 @@ Sou estudante de programação e estou no **início da construção do meu portf
 🎯 Atualmente focado em:
 - Lógica de programação
 - C#
+- Full Stack and stuff
 - Projetos de estudo
 
 📚 Repositórios de estudo e aprendizado:
