@@ -1,15 +1,15 @@
-## 👋 Olá! Eu sou o Henrique
+# 👋 Olá! Eu sou o Henrique
 
-Sou estudante de programação e estou no **início da construção do meu portfólio**.
+Sou estudante de programação e estou no início da construção do meu portfólio.
 
-🎯 Atualmente focado em:
-- Lógica de programação
-- C#
-- Projetos de estudo
+🛠️ **Estudando atualmente:**
+- C# e lógica de programação
+- Desenvolvimento de software
+- Projetos práticos de estudo
 
-📚 Repositórios de estudo e aprendizado:
-- Participação em projetos open source (DIO)
-- Exercícios práticos
+📚 **O que você encontra por aqui:**
+- Participação em projetos open source (como na DIO)
+- Exercícios práticos e experimentos
 - Projetos em evolução
 
-🚀 Em constante aprendizado.
+🚀 Estou aprendendo tudo **na prática**, um passo de cada vez.
